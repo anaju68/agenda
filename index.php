@@ -7,7 +7,7 @@
     <title>Agenda</title>
 </head>
 <body>
-    <h1>Agenda do prof. Edney</h1>
+    <h1>Agenda da Amanda e Anaju</h1>
 <?php
 include "conexao.php";
 
